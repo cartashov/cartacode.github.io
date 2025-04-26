@@ -16,9 +16,9 @@ header:
 
 ![Описание картинки](/assets/geopolitika-tellurokratiya-talassokratiya-chto-eto-i-zachem.jpg)
 
-А вот как добавить видео:
+Вот видео для просмотра:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/no38HvsHGug&t=522s" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/050dd76f3c98ee72cdf632fc989e2a7d" frameborder="0" allowfullscreen></iframe>
 
 Несмотря ни на что, я все таки завел свой блог, да тупил, да, было непонятно. Но терпение и труд – все перетрут.
 
