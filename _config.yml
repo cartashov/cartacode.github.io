@@ -14,12 +14,14 @@ timezone: Europe/Moscow
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Геополитика # the main title
+title: CartaCode # the main title
 
-tagline: Собатия, аналитика, карты # it will display as the subtitle
+tagline: Ради тех, кто шел первым.
+                Тому, кто идет сейчас.
+                    Тем, кому предстоит пройти. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  О том что с нами было, что происходит и что нас ждет впереди.
+  О том, что с нами было, что происходит и что нас ждет впереди.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/avatars/avaGit.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
