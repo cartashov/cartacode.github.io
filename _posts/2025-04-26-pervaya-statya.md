@@ -19,3 +19,7 @@ header:
 А вот как добавить видео:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/no38HvsHGug&t=522s" frameborder="0" allowfullscreen></iframe>
+
+Несмотря ни на что, я все таки завел свой блог, да тупил, да, было непонятно. Но терпение и труд – все перетрут.
+
+{% include embed/{youtube}.html id='{no38HvsHGug&t=522s}' %}
