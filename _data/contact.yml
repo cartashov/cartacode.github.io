@@ -7,16 +7,16 @@
 - type: telegram
   icon: "fab fa-telegram-plane" 
   url: "https://t.me/mcartashov"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
   
 #- type: github
 #  icon: "fab fa-github"
 #
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
-#
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
 #
 #- type: rss
 #  icon: "fas fa-rss"
