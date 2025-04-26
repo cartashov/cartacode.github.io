@@ -23,3 +23,6 @@ header:
 Несмотря ни на что, я все таки завел свой блог, да тупил, да, было непонятно. Но терпение и труд – все перетрут.
 
 {% include embed/{youtube}.html id='{no38HvsHGug&t=522s}' %}
+
+
+<iframe width="860" height="385" src="https://www.youtube.com/embed/1nmBUzBBggc" frameborder="0" allowfullscreen></iframe>
