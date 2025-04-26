@@ -17,10 +17,10 @@ timezone: Europe/Moscow
 title: CartaCode # the main title
 
 tagline: 
-Тем, кто шел первым.  
-Тем, кто идет сейчас.  
-Тем, кому предстоит пройти... 
-# it will display as the subtitle
+  Тем, кто шел первым.  
+  Тем, кто идет сейчас.  
+  Тем, кому предстоит пройти... 
+  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   О том, что с нами было, что происходит и что нас ждет впереди.
