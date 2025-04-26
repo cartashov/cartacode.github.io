@@ -16,9 +16,11 @@ timezone: Europe/Moscow
 
 title: CartaCode # the main title
 
-tagline: Ради тех, кто шел первым.
-                Тому, кто идет сейчас.
-                    Тем, кому предстоит пройти. # it will display as the subtitle
+tagline: 
+Тем, кто шел первым.  
+Тем, кто идет сейчас.  
+Тем, кому предстоит пройти... 
+# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   О том, что с нами было, что происходит и что нас ждет впереди.
@@ -100,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/avatars/avaGit.jpg
+avatar: /assets/avatars/avaGit2.0.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
